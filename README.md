@@ -87,7 +87,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />&nbsp;
   <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=googlecolab" width="50" height="50" />
 </div>
 
 <h2 align="left">🚀 Featured Projects</h2>
