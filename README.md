@@ -123,7 +123,7 @@ Built regression models using preprocessing and feature selection techniques for
 <p align="center">
   <img
     src="./profile/stats.svg"
-    width="47%"
+    width="45%"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
