@@ -47,8 +47,8 @@
 <h3 align="left">📊 Data Analysis & Visualization</h3>
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/App.svg" width="68" height="68">
-<img src="https://skillicons.dev/icons?i=python" width="68" height="68">
+<img src="./powerbi.png" width="68" height="68" />
+<img src="https://skillicons.dev/icons?i=python" width="68" height="68" />
 </div>
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
