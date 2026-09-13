@@ -186,6 +186,28 @@ Built regression models using preprocessing and feature selection techniques for
 
 </div>
 
+<h2 align="left">🐍 Contribution Snake</h2>
+
+<div align="left">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
 ## 🌱 Currently Learning
 
 <div align="center">
