@@ -1,10 +1,8 @@
 <div align="center">
-
-<p>
-  <strong>
-    <font size="180">👋 Hi, I'm Aaron Mendonca</font>
-  </strong>
-</p>
+  <p style="font-size: 42px; font-weight: bold;">
+    👋 Hi, I'm Aaron Mendonca
+  </p>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
 
