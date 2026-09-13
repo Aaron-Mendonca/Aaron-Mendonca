@@ -49,7 +49,7 @@
 <div align="left">
 <img src="./powerbi.png" width="55" height="55" />
 <img src="https://skillicons.dev/icons?i=python" width="55" height="55"  />
-<img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/tableau.svg" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="55" height="55" />
 </div>
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
