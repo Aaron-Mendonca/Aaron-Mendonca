@@ -15,25 +15,23 @@
 
 <p align="center">
 
-
 <a href="mailto:mendoncaaaron27@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="66" height="66" alt="Email">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="66" height="66" alt="Email" style="border:0; outline:none;">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="66" height="66" alt="LinkedIn">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="66" height="66" alt="LinkedIn" style="border:0; outline:none;">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Aaron-Mendonca" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="66" height="66" alt="GitHub">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="66" height="66" alt="GitHub" style="border:0; outline:none;">
 </a>
 
 </p>
 
 <br>
-
 ## 👨‍💻 About Me
 
 🎓 Final-year **BSc Data Science student at the University of Mumbai** with a **9.5 CGPA**.
