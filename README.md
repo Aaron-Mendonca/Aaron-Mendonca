@@ -194,6 +194,10 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📫 Let's Connect</h2>
 
+<div align="left">
+I'm open to connecting with professionals, discussing data analytics and exploring opportunities where I can contribute and continue learning.
+</div>
+
 <p align="center">
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mendoncaaaron27@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
