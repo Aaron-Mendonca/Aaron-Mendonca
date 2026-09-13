@@ -45,36 +45,21 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 📊 Data Analysis & Visualization
 
-<img src="https://skillicons.dev/icons?i=python,r" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-### Data Analysis & Visualization
+### 🤖 Data Science & Machine Learning
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=python" />
 
-### Data Science & Machine Learning
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-### Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-### Business Intelligence & CRM
+### 📈 Business Intelligence & CRM
 
-<img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white">
-<img src="https://img.shields.io/badge/MIS%20Reporting-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/KPI%20Tracking-34A853?style=for-the-badge">
-<img src="https://img.shields.io/badge/Business%20Intelligence-7B1FA2?style=for-the-badge">
-
+<img src="https://skillicons.dev/icons?i=excel" />
 ---
 
 ## 💼 Experience
