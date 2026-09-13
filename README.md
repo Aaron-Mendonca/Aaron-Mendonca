@@ -70,51 +70,56 @@
 <img src="https://skillicons.dev/icons?i=excel" />
 </div>
 
-
 <h2 align="left">💼 Experience</h2>
 
-<h4 align="left">📊 CRM Coordinator & Data Expert</h4>
+<div align="left">
 
-**TellMe – HeartTales Wholeness Pvt. Ltd.**  
-`Apr 2026 – Present`
+<h4>📊 CRM Coordinator & Data Expert</h4>
 
-- 🔎 Conduct data mining and analysis on real user and session data
-- 📈 Identify behavioural patterns and engagement trends
-- 💡 Derive actionable insights to improve user experience and business decision-making
-- 📋 Maintain live session tracking and MIS reporting using Google Sheets and Excel
+<strong>TellMe – HeartTales Wholeness Pvt. Ltd.</strong><br>
+<code>Apr 2026 – Present</code>
 
----
+<ul>
+<li>🔎 Conduct data mining and analysis on real user and session data</li>
+<li>📈 Identify behavioural patterns and engagement trends</li>
+<li>💡 Derive actionable insights to improve user experience and business decision-making</li>
+<li>📋 Maintain live session tracking and MIS reporting using Google Sheets and Excel</li>
+</ul>
 
-### 🤖 Artificial Intelligence Intern
+<h4>🤖 Artificial Intelligence Intern</h4>
 
-**IBM – Virtual**  
-`Feb 2026 – Mar 2026`
+<strong>IBM – Virtual</strong><br>
+<code>Feb 2026 – Mar 2026</code>
 
-- Worked on AI/ML workflows including data handling, model building, testing, and performance evaluation
-- 🧠 Strengthened analytical and problem-solving capabilities through hands-on model building and data analysis
+<ul>
+<li>Worked on AI/ML workflows including data handling, model building, testing, and performance evaluation</li>
+<li>🧠 Strengthened analytical and problem-solving capabilities through hands-on model building and data analysis</li>
+</ul>
 
----
+<h4>👥 Campus Community Head – Intern</h4>
 
-### 👥 Campus Community Head – Intern
+<strong>edept, Mumbai</strong><br>
+<code>Oct 2025 – Apr 2026</code>
 
-**edept, Mumbai**  
-`Oct 2025 – Apr 2026`
+<ul>
+<li>📊 Tracked and analysed lead engagement data</li>
+<li>📋 Maintained centralized records and generated MIS reports</li>
+<li>🔎 Identified performance gaps through data observation</li>
+<li>🤝 Drove corrective action across cross-functional teams</li>
+</ul>
 
-- 📊 Tracked and analysed lead engagement data
-- 📋 Maintained centralized records and generated MIS reports
-- 🔎 Identified performance gaps through data observation
-- 🤝 Drove corrective action across cross-functional teams
+<h4>📊 Data Science Intern</h4>
 
----
+<strong>Unified Mentor Pvt. Ltd., Mumbai</strong><br>
+<code>Apr 2025 – Jul 2025</code>
 
-### 📊 Data Science Intern
+<ul>
+<li>🧹 Performed data cleaning, preprocessing, and EDA on structured datasets</li>
+<li>🤖 Built and evaluated machine learning models using Python</li>
+<li>📈 Generated data-driven reports and delivered actionable insights</li>
+</ul>
 
-**Unified Mentor Pvt. Ltd., Mumbai**  
-`Apr 2025 – Jul 2025`
-
-- 🧹 Performed data cleaning, preprocessing, and EDA on structured datasets
-- 🤖 Built and evaluated machine learning models using Python
-- 📈 Generated data-driven reports and delivered actionable insights
+</div>
 
 ---
 
