@@ -47,8 +47,9 @@
 <h3 align="left">📊 Data Analysis & Visualization</h3>
 
 <div align="left">
-<img src="./powerbi.png" width="68" height="68" />
-<img src="https://skillicons.dev/icons?i=python" width="68" height="68" />
+<img src="./powerbi.png" />
+<img src="https://skillicons.dev/icons?i=python"  />
+<img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/tableau.svg" />
 </div>
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
