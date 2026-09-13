@@ -27,15 +27,15 @@
 
 <div align="left">
 
-🎓 Final-year <strong>BSc Data Science student at the University of Mumbai</strong> with a <strong>9.5 CGPA</strong>.<br><br>
+🎓 Final-year <strong>BSc Data Science student at the University of Mumbai</strong> with a <strong>9.5 CGPA</strong>.
 
-📊 Passionate about <strong>Data Analytics, Business Intelligence, Machine Learning, and Data Visualization</strong>.<br><br>
+📊 Passionate about <strong>Data Analytics, Business Intelligence, Machine Learning, and Data Visualization</strong>.
 
-💻 Skilled in <strong>Python, SQL, Power BI, Excel, Pandas, NumPy, and Scikit-learn</strong>.<br><br>
+💻 Skilled in <strong>Python, SQL, Power BI, Excel, Pandas, NumPy, and Scikit-learn</strong>.
 
-🏢 Currently working as a <strong>CRM Coordinator & Data Expert at TellMe</strong>, an IIM Mumbai incubated startup.<br><br>
+🏢 Currently working as a <strong>CRM Coordinator & Data Expert at TellMe</strong>, an IIM Mumbai incubated startup.
 
-🔎 I enjoy discovering patterns in data, building analytical solutions, and turning data into actionable business insights.<br><br>
+🔎 I enjoy discovering patterns in data, building analytical solutions, and turning data into actionable business insights.
 
 🎯 Currently seeking opportunities in <strong>Data Analytics, Business Analysis, Data Science, and Business Intelligence</strong>.
 
