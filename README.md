@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./visual_representation.gif" width="850">
+<img src="./visual_representation.gif" width="550">
 
 </div>
 
