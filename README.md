@@ -260,6 +260,12 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Aaron-Mendonca&label=Profile%20Views&color=007ec6&style=flat" />
+
+</div>
+
+<div align="center">
+
 ### 📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀
 
 </div>
