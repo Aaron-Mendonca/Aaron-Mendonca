@@ -13,21 +13,21 @@
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:mendoncaaaron27@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Email">
-</a>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email">
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn">
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Aaron-Mendonca" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub">
 </a>
 
-</p>
+</div>
 
 <br>
 
