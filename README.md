@@ -13,29 +13,22 @@
 
 <br>
 
-<table align="center" style="border: 0;">
-<tr style="border: none;">
+<div align="center">
 
-<td style="border:0">
 <a href="mailto:mendoncaaaron27@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
-</a>
-</td>
+<img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Email">
+</a>&nbsp;&nbsp;&nbsp;
 
-<td style="border:0">
 <a href="https://www.linkedin.com/in/aaronmendonca/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
-</a>
-</td>
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn">
+</a>&nbsp;&nbsp;&nbsp;
 
-<td style="border:0">
 <a href="https://github.com/Aaron-Mendonca">
-<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub">
 </a>
-</td>
 
-</tr>
-</table>
+</div>
+
 <br>
 
 ## 👨‍💻 About Me
