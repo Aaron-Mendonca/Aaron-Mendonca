@@ -47,20 +47,35 @@
 
 ### 📊 Data Analysis & Visualization
 
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=python" />
+
+</div>
 
 ### 🤖 Data Science & Machine Learning
 
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=python" />
+
+</div>
 
 ### 🗄️ Databases
 
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</div>
 
 ### 📈 Business Intelligence & CRM
 
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=excel" />
----
+
+</div>
 
 ## 💼 Experience
 
