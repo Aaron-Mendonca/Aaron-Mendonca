@@ -13,7 +13,7 @@
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" style="border: 0;">
 <tr style="border: none;">
 
 <td style="border:0">
