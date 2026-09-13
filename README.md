@@ -215,17 +215,13 @@ Built regression models using preprocessing and feature selection techniques for
 
 ## 📫 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:mendoncaaaron27@gmail.com">
-<img src="https://img.shields.io/badge/Email-mendoncaaaron27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:mendoncaaaron27@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaronmendonca/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Aaron-Mendonca)
 
-<a href="https://www.linkedin.com/in/aaronmendonca">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+</p>
 
 <br>
 
