@@ -201,19 +201,15 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aaron-Mendonca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="profile/stats.svg" width="49%" />
 
-<br><br>
+  <img src="profile/top-langs.svg" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Mendonca&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 🌱 Currently Learning
 
