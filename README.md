@@ -123,48 +123,53 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="left">🚀 Featured Projects</h2>
 
-### 😊 Customer Satisfaction Prediction
+<div align="left">
 
-**Python • Pandas • NumPy • Scikit-learn**
+<h4>😊 Customer Satisfaction Prediction</h4>
 
+<strong>Python • Pandas • NumPy • Scikit-learn</strong>
+
+<p>
 Built classification models with feature engineering and evaluated model performance using accuracy and precision to derive business insights.
+</p>
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
 
----
+<h4>🎬 Netflix Data Analysis</h4>
 
-### 🎬 Netflix Data Analysis
+<strong>Python • Pandas • Matplotlib • Seaborn</strong>
 
-**Python • Pandas • Matplotlib • Seaborn**
-
+<p>
 Conducted exploratory data analysis and created visualizations to uncover content trends and user preferences.
+</p>
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
 
----
+<h4>💳 Digital Payment Trends</h4>
 
-### 💳 Digital Payment Trends
+<strong>Python • Excel • SQL</strong>
 
-**Python • Excel • SQL**
-
+<p>
 Analysed large-scale datasets to identify digital payment conversion trends across semi-urban and rural markets.
+</p>
 
-📚 Research published under the **University of Mumbai**.
+📚 Research published under the <strong>University of Mumbai</strong>.
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
 
----
+<h4>🌫️ Air Quality Prediction</h4>
 
-### 🌫️ Air Quality Prediction
+<strong>Python • Pandas • NumPy • Scikit-learn</strong>
 
-**Python • Pandas • NumPy • Scikit-learn**
-
+<p>
 Built regression models using preprocessing and feature selection techniques for AQI prediction.
+</p>
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
 
+</div>
 ---
 
 ## 📊 GitHub Analytics
