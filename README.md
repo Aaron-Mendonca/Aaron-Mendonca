@@ -120,20 +120,33 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
-<img src="./profile/stats.svg" width="495" alt="GitHub Stats">
+<img
+  src="./profile/stats.svg"
+  width="450"
+  height="200"
+  alt="GitHub Stats"
+/>
 
 </td>
+
 <td width="50%" align="center">
 
-<img src="./profile/top-langs.svg" width="495" alt="Most Used Languages">
+<img
+  src="./profile/top-langs.svg"
+  width="450"
+  height="200"
+  alt="Most Used Languages"
+/>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 
