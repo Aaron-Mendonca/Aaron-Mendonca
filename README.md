@@ -123,14 +123,6 @@ Conducted exploratory data analysis and created visualizations to uncover conten
 
 🔗 <strong><a href="https://github.com/Aaron-Mendonca/Netflix-Data-Analysis-">View Project</a></strong>
 
-<h4>💳 Digital Payment Trends</h4>
-
-<strong>Python • Excel • SQL</strong>
-
-<p>
-Analysed large-scale datasets to identify digital payment conversion trends across semi-urban and rural markets.
-</p>
-
 
 <h4>🌫️ Air Quality Prediction</h4>
 
