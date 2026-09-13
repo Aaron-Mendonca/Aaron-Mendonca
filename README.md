@@ -1,18 +1,16 @@
 <div align="center">
-  <p style="font-size: 42px; font-weight: bold;">
-    👋 Hi, I'm Aaron Mendonca
-  </p>
-</div>
+
+<p>
+  <font size="7"><strong>👋 Hi, I'm Aaron Mendonca</strong></font>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
 
+<p align="center">
+  <img src="./visual_represntation.gif" width="550">
+</p>
+
 <br>
-
-<hr>
-
-<img src="./visual_representation.gif" width="550">
-
-<br><br>
 
 <a href="mailto:mendoncaaaron27@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
