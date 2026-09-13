@@ -122,9 +122,9 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
-  <img src="./profile/stats.svg" width="48%" height="300" />
+  <img src="./profile/stats.svg" width="48%" />
 
-  <img src="./profile/top-langs.svg" width="48%" height="300" />
+  <img src="./profile/top-langs.svg" width="48%" />
 
   <br><br>
 
