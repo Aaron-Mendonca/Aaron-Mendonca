@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Aaron Mendonca
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Science+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Science+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
+### 📊 Data / Business Analyst
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Science+Student+%F0%9F%8E%93;Data+Analyst+%F0%9F%93%8A;Business+Intelligence+Enthusiast+%F0%9F%92%A1;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
 
 <br>
 
@@ -10,7 +12,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/aaronmendonca">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -26,15 +28,15 @@
 
 🎓 Final-year **BSc Data Science student at the University of Mumbai** with a **9.5 CGPA**.
 
-📊 Passionate about **Data Analytics, Machine Learning, Business Intelligence, and Data Visualization**.
+📊 Passionate about **Data Analytics, Business Intelligence, Machine Learning, and Data Visualization**.
 
-💻 Experienced in working with **Python, SQL, Power BI, Excel, Pandas, NumPy, and Scikit-learn**.
+💻 Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy, and Scikit-learn**.
 
 🏢 Currently working as a **CRM Coordinator & Data Expert at TellMe**, an IIM Mumbai incubated startup.
 
-🔎 Interested in discovering patterns in data, building analytical solutions, and turning data into actionable business insights.
+🔎 I enjoy discovering patterns in data, building analytical solutions, and turning data into actionable business insights.
 
-🎯 Currently seeking opportunities in **Data Analytics, Data Science, and Business Intelligence**.
+🎯 Currently seeking opportunities in **Data Analytics, Business Analysis, Data Science, and Business Intelligence**.
 
 ---
 
@@ -48,74 +50,108 @@
 
 </div>
 
-**Power BI • Tableau • Advanced Excel • Google Sheets • Matplotlib • Seaborn**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+
+</p>
 
 ---
 
 ### 🤖 Data Science & Machine Learning
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-</div>
+</p>
 
-**Python • Pandas • NumPy • Scikit-learn • EDA • Feature Engineering • Predictive Modelling • Statistical Analysis**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+</p>
+
+**EDA • Feature Engineering • Predictive Modelling • Statistical Analysis • Hypothesis Testing**
 
 ---
 
-### 🗄️ Databases & SQL
+### 🗄️ Databases
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-</div>
+</p>
 
-**MySQL • PostgreSQL • SQL**
+**SQL • MySQL • PostgreSQL**
 
 ---
 
 ### 📈 Business Intelligence & CRM
 
-**Power BI • MIS Reporting • Dashboard Reporting • KPI Tracking • Zoho CRM • Business Intelligence**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white">
+<img src="https://img.shields.io/badge/MIS%20Reporting-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/KPI%20Tracking-34A853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Intelligence-7B1FA2?style=for-the-badge">
+
+</p>
 
 ---
 
 ## 💼 Experience
 
 ### 📊 CRM Coordinator & Data Expert
+
 **TellMe – HeartTales Wholeness Pvt. Ltd.**  
 `Apr 2026 – Present`
 
-- 🔎 Conducting data mining and analysis on real user and session data
-- 📈 Identifying behavioural patterns and engagement trends
-- 💡 Deriving actionable insights for user experience and business decisions
-- 📋 Maintaining live session tracking and MIS reporting using Google Sheets and Excel
+- 🔎 Conduct data mining and analysis on real user and session data
+- 📈 Identify behavioural patterns and engagement trends
+- 💡 Derive actionable insights to improve user experience and business decision-making
+- 📋 Maintain live session tracking and MIS reporting using Google Sheets and Excel
+
+---
 
 ### 🤖 Artificial Intelligence Intern
+
 **IBM – Virtual**  
 `Feb 2026 – Mar 2026`
 
-- Worked on AI/ML workflows including data handling, model building, testing, and evaluation
-- Built hands-on experience with model development and data analysis
+- Worked on AI/ML workflows including data handling, model building, testing, and performance evaluation
+- 🧠 Strengthened analytical and problem-solving capabilities through hands-on model building and data analysis
+
+---
 
 ### 👥 Campus Community Head – Intern
+
 **edept, Mumbai**  
 `Oct 2025 – Apr 2026`
 
 - 📊 Tracked and analysed lead engagement data
 - 📋 Maintained centralized records and generated MIS reports
 - 🔎 Identified performance gaps through data observation
-- 🤝 Worked with cross-functional teams on corrective actions
+- 🤝 Drove corrective action across cross-functional teams
+
+---
 
 ### 📊 Data Science Intern
+
 **Unified Mentor Pvt. Ltd., Mumbai**  
 `Apr 2025 – Jul 2025`
 
-- 🧹 Performed data cleaning, preprocessing, and EDA
+- 🧹 Performed data cleaning, preprocessing, and EDA on structured datasets
 - 🤖 Built and evaluated machine learning models using Python
-- 📈 Generated data-driven reports and actionable insights
+- 📈 Generated data-driven reports and delivered actionable insights
 
 ---
 
@@ -125,7 +161,7 @@
 
 **Python • Pandas • NumPy • Scikit-learn**
 
-Built classification models to predict customer satisfaction using feature engineering and machine learning evaluation techniques.
+Built classification models with feature engineering and evaluated model performance using accuracy and precision to derive business insights.
 
 🔗 **[View Project](YOUR_PROJECT_LINK)**
 
@@ -135,7 +171,7 @@ Built classification models to predict customer satisfaction using feature engin
 
 **Python • Pandas • Matplotlib • Seaborn**
 
-Performed exploratory data analysis on Netflix data and created visualizations to uncover content trends and user preferences.
+Conducted exploratory data analysis and created visualizations to uncover content trends and user preferences.
 
 🔗 **[View Project](YOUR_PROJECT_LINK)**
 
@@ -157,7 +193,7 @@ Analysed large-scale datasets to identify digital payment conversion trends acro
 
 **Python • Pandas • NumPy • Scikit-learn**
 
-Built regression models for AQI prediction using preprocessing, feature selection, and regression evaluation metrics.
+Built regression models using preprocessing and feature selection techniques for AQI prediction.
 
 🔗 **[View Project](YOUR_PROJECT_LINK)**
 
@@ -167,15 +203,15 @@ Built regression models for AQI prediction using preprocessing, feature selectio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aaron-Mendoca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aaron-Mendonca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Mendoca&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Mendonca&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Aaron-Mendoca&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -183,10 +219,60 @@ Built regression models for AQI prediction using preprocessing, feature selectio
 
 ## 🌱 Currently Learning
 
-```text
-📊 Advanced Data Analytics
-🤖 Machine Learning
-📈 Business Intelligence
-🗄️ Advanced SQL
-📉 Statistical Analysis
-💡 Predictive Modelling
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+
+</div>
+
+<br>
+
+- 📊 Advanced Data Analytics
+- 🗄️ Advanced SQL
+- 🤖 Machine Learning
+- 📈 Business Intelligence
+- 📉 Statistical Analysis
+- 💡 Predictive Modelling
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **Certificate of Academic Excellence – Topper Award (1st Place)** | edept
+- 📊 **British Airways Data Science Job Simulation** | Forage
+- 📗 **Advanced Excel** | ExcelR
+- 🐍 **The Joy of Computing Using Python** | NPTEL
+
+---
+
+## 🎓 Education
+
+### BSc Data Science
+
+**University of Mumbai, Mumbai**
+
+`Final Year • CGPA: 9.5 • 2027`
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:mendoncaaaron27@gmail.com">
+<img src="https://img.shields.io/badge/Email-mendoncaaaron27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀
+
+</div>
