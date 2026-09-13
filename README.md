@@ -172,26 +172,6 @@ Built regression models using preprocessing and feature selection techniques for
 - 📉 Statistical Analysis
 - 💡 Predictive Modelling
 
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 **Certificate of Academic Excellence – Topper Award (1st Place)** | edept
-- 📊 **British Airways Data Science Job Simulation** | Forage
-- 📗 **Advanced Excel** | ExcelR
-- 🐍 **The Joy of Computing Using Python** | NPTEL
-
----
-
-## 🎓 Education
-
-### BSc Data Science
-
-**University of Mumbai, Mumbai**
-
-`Final Year • CGPA: 9.5 • 2027`
-
----
 
 ## 📫 Let's Connect
 
