@@ -40,13 +40,13 @@
 
 ### 📊 Data Analysis & Visualization
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
@@ -61,13 +61,13 @@
 
 ### 🤖 Data Science & Machine Learning
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -81,7 +81,7 @@
 
 ### 🗄️ Databases
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
@@ -93,7 +93,7 @@
 
 ### 📈 Business Intelligence & CRM
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white">
 <img src="https://img.shields.io/badge/MIS%20Reporting-4285F4?style=for-the-badge">
@@ -197,7 +197,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
   <img src="profile/stats.svg" width="49%" />
 
@@ -211,7 +211,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 ## 🌱 Currently Learning
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,postgres" />
 
@@ -249,7 +249,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:mendoncaaaron27@gmail.com">
 <img src="https://img.shields.io/badge/Email-mendoncaaaron27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -263,7 +263,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ### 📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀
 
