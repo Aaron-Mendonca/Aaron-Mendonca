@@ -47,6 +47,7 @@
 <h4 align="left">📊 Data Analysis & Visualization</h4>
 
 <div align="left">
+<img src="https://skillicons.dev/icons?i=powerbi" />
 <img src="https://skillicons.dev/icons?i=python" />
 </div>
 
