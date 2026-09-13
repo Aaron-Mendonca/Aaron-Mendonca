@@ -70,9 +70,10 @@
 <img src="https://skillicons.dev/icons?i=excel" />
 </div>
 
-## 💼 Experience
 
-### 📊 CRM Coordinator & Data Expert
+<h2 align="left">💼 Experience</h2>
+
+<h4 align="left">📊 CRM Coordinator & Data Expert</h4>
 
 **TellMe – HeartTales Wholeness Pvt. Ltd.**  
 `Apr 2026 – Present`
