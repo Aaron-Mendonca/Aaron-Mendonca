@@ -44,70 +44,59 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<!-- ==================== DATA ANALYSIS ==================== -->
-
 <h4 align="left">📊 Data Analysis & Visualization</h4>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/seaborn" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="50" height="50" />
+  <img src="./powerbi.png" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=excel" width="50" height="50" />
 </div>
-
-
-<!-- ==================== DATA SCIENCE ==================== -->
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=xgboost" width="50" height="50" />
 </div>
-
-
-<!-- ==================== DATABASES ==================== -->
 
 <h4 align="left">🗄️ Databases</h4>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mysql" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mssql" width="50" height="50" />
 </div>
-
-
-<!-- ==================== BUSINESS INTELLIGENCE ==================== -->
 
 <h4 align="left">📈 Business Intelligence & CRM</h4>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="50" height="50" />&nbsp;
+  <img src="./powerbi.png" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" />&nbsp;
+  <img src="https://cdn.simpleicons.org/salesforce" width="50" height="50" />&nbsp;
   <img src="https://cdn.simpleicons.org/hubspot" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/salesforce" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/looker" width="50" height="50" />
 </div>
-
-
-<!-- ==================== TOOLS ==================== -->
 
 <h4 align="left">💻 Tools & Development</h4>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/git" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/github" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/anaconda" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecolab" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=googlecolab" width="50" height="50" />
 </div>
 
 <h2 align="left">🚀 Featured Projects</h2>
