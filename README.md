@@ -83,7 +83,7 @@
 Built classification models with feature engineering and evaluated model performance using accuracy and precision to derive business insights.
 </p>
 
-🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
+🔗 <strong><a href="https://github.com/Aaron-Mendonca/Customer-Satisfaction-Prediction">View Project</a></strong>
 
 <h4>🎬 Netflix Data Analysis</h4>
 
@@ -93,7 +93,7 @@ Built classification models with feature engineering and evaluated model perform
 Conducted exploratory data analysis and created visualizations to uncover content trends and user preferences.
 </p>
 
-🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
+🔗 <strong><a href="https://github.com/Aaron-Mendonca/Netflix-Data-Analysis-">View Project</a></strong>
 
 <h4>💳 Digital Payment Trends</h4>
 
@@ -103,9 +103,6 @@ Conducted exploratory data analysis and created visualizations to uncover conten
 Analysed large-scale datasets to identify digital payment conversion trends across semi-urban and rural markets.
 </p>
 
-📚 Research published under the <strong>University of Mumbai</strong>.
-
-🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
 
 <h4>🌫️ Air Quality Prediction</h4>
 
@@ -115,7 +112,7 @@ Analysed large-scale datasets to identify digital payment conversion trends acro
 Built regression models using preprocessing and feature selection techniques for AQI prediction.
 </p>
 
-🔗 <strong><a href="YOUR_PROJECT_LINK">View Project</a></strong>
+🔗 <strong><a href="https://github.com/Aaron-Mendonca/Air_Quality_Prediction">View Project</a></strong>
 
 </div>
 
