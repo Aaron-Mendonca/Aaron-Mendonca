@@ -44,13 +44,11 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 
-<h4 align="left">📊 Data Analysis & Visualization</h4>
+<h3 align="left">📊 Data Analysis & Visualization</h3>
 
 <div align="left">
-
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI.svg" width="68" height="68" />
 <img src="https://skillicons.dev/icons?i=python" width="68" height="68" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="68" height="68" />
-
 </div>
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
