@@ -19,19 +19,19 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/Aaron-Mendonca" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://aaron-mendonca.github.io/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
