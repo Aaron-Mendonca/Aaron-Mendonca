@@ -40,8 +40,8 @@
 🎯 Currently seeking opportunities in <strong>Data Analytics, Business Analysis, Data Science, and Business Intelligence</strong>.
 
 </div>
-  
-## 🛠️ Technical Skills
+
+<h2 align="left">🛠️ Technical Skills</h2>
 
 ### 📊 Data Analysis & Visualization
 
