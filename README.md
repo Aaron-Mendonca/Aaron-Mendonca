@@ -43,11 +43,11 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
+
+ <h2 align="left"> 📊 Data Analysis & Visualization </h2>
+
+
 <div align="left">
-### 📊 Data Analysis & Visualization
-
-
-
 <img src="https://skillicons.dev/icons?i=python" />
 
 </div>
