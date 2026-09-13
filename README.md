@@ -43,15 +43,13 @@
 
 <h2 align="left">🛠️ Technical Skills</h2>
 
-### 📊 Data Analysis & Visualization
+## 🛠️ Tech Stack
 
-<div align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,r" />
 
-</div>
-
-<p align="left">
+### Data Analysis & Visualization
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
@@ -60,52 +58,22 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 
-</p>
-
----
-
-### 🤖 Data Science & Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</p>
-
-<p align="center">
+### Data Science & Machine Learning
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-</p>
-
-**EDA • Feature Engineering • Predictive Modelling • Statistical Analysis • Hypothesis Testing**
-
----
-
-### 🗄️ Databases
-
-<p align="center">
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-</p>
-
-**SQL • MySQL • PostgreSQL**
-
----
-
-### 📈 Business Intelligence & CRM
-
-<p align="center">
+### Business Intelligence & CRM
 
 <img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white">
 <img src="https://img.shields.io/badge/MIS%20Reporting-4285F4?style=for-the-badge">
 <img src="https://img.shields.io/badge/KPI%20Tracking-34A853?style=for-the-badge">
 <img src="https://img.shields.io/badge/Business%20Intelligence-7B1FA2?style=for-the-badge">
-
-</p>
 
 ---
 
