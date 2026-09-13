@@ -6,6 +6,12 @@
 
 <br>
 
+<div align="center">
+
+<img src="./visual_representation.gif" width="550">
+
+</div>
+
 <a href="mailto:mendoncaaaron27@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -21,12 +27,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="./visual_representation.gif" width="550">
-
-</div>
 
 <br>
 
