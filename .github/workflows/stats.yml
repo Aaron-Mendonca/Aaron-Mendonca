@@ -1,8 +1,6 @@
 name: Update README cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +21,6 @@ jobs:
           options: username=Aaron-Mendonca&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -32,16 +29,11 @@ jobs:
           options: username=Aaron-Mendonca&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
 
-      - name: Check generated files
+      - name: Show generated files
         run: |
           echo "===== PROFILE FOLDER ====="
           ls -lah profile/
-
-          echo ""
-          echo "===== GIT STATUS ====="
-          git status --short
 
       - name: Commit cards
         run: |
@@ -50,8 +42,6 @@ jobs:
 
           git add profile/stats.svg profile/top-langs.svg
 
-          git status --short
-
-          git commit -m "Update README cards" || echo "No changes to commit"
+          git commit -m "Generate GitHub analytics cards" || echo "Nothing to commit"
 
           git push
