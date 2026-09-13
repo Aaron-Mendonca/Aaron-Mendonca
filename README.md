@@ -15,19 +15,20 @@
 
 <div align="center">
 
-<a href="mailto:mendoncaaaron27@gmail.com" style="text-decoration:none !important; border:none !important;">
-<img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Email" style="border:none;">
+<a href="mailto:mendoncaaaron27@gmail.com" style="text-decoration:none;" border="0">
+<img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Email" border="0">
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/aaronmendonca/" style="text-decoration:none !important; border:none !important;">
-<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn" style="border:none;">
+<a href="https://www.linkedin.com/in/aaronmendonca/" style="text-decoration:none;" border="0">
+<img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn" border="0">
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Aaron-Mendonca" style="text-decoration:none !important; border:none !important;">
-<img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub" style="border:none;">
+<a href="https://github.com/Aaron-Mendonca" style="text-decoration:none;" border="0">
+<img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub" border="0">
 </a>
 
 </div>
+
 <br>
 
 ## 👨‍💻 About Me
