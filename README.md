@@ -120,23 +120,22 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./profile/stats.svg" width="495" alt="GitHub Stats">
+
+</td>
+<td width="50%" align="center">
+
+<img src="./profile/top-langs.svg" width="495" alt="Most Used Languages">
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img
-  src="./profile/stats.svg"
-  width="500"
-  height="250"
-  alt="GitHub Stats"
-/>&nbsp;&nbsp;
-
-<img
-  src="./profile/top-langs.svg"
-  width="500"
-  height="250"
-  alt="Most Used Languages"
-/>
-
-<br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true"
