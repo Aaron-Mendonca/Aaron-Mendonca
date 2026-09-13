@@ -7,6 +7,10 @@
 
 <hr>
 
+<div align="center">
+  <img src="./visual_representation.gif" width="850">
+</div>
+
 <p align="center">
 
 <a href="mailto:mendoncaaaron27@gmail.com">
