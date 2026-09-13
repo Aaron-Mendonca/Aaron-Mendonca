@@ -44,37 +44,21 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 
- <h2 align="left"> 📊 Data Analysis & Visualization </h2>
-
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-
-</div>
-
-### 🤖 Data Science & Machine Learning
-
-<div align="left">
+<h3 align="left">📊 Data Analysis & Visualization</h3>
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-</div>
+<h3 align="left">🤖 Data Science & Machine Learning</h3>
 
-### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=python" />
 
-<div align="left">
+<h3 align="left">🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-</div>
-
-### 📈 Business Intelligence & CRM
-
-<div align="left">
+<h3 align="left">📈 Business Intelligence & CRM</h3>
 
 <img src="https://skillicons.dev/icons?i=excel" />
-
-</div>
 
 ## 💼 Experience
 
