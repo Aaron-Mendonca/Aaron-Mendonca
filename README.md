@@ -15,19 +15,19 @@
 
 <p align="center">
 
+
 <a href="mailto:mendoncaaaron27@gmail.com">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" width="65" height="65" alt="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="70" height="70" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="65" height="65" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="70" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-
 <a href="https://github.com/Aaron-Mendonca" target="_blank">
-  <img src="https://img.icons8.com/color/96/github.png" width="65" height="65" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="70" height="70" />
 </a>
 
 </p>
