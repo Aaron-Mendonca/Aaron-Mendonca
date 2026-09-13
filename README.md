@@ -18,7 +18,7 @@
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:mendoncaaaron27@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaronmendonca/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Aaron-Mendonca)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.icons8.com/fluency/96/domain.png)](https://aaron-mendonca.github.io/)
+[![Portfolio](https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png)](https://aaron-mendonca.github.io/)
 
 </p>
 <br>
