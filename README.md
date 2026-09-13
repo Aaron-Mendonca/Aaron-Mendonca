@@ -172,7 +172,7 @@ Built regression models using preprocessing and feature selection techniques for
 </div>
 ---
 
-## 📊 GitHub Analytics
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="center">
 
