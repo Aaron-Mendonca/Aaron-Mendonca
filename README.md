@@ -13,19 +13,24 @@
 
 <br>
 
+<p align="center">
+
 <a href="mailto:mendoncaaaron27@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="65" height="65" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="65" height="65" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+
+<a href="https://github.com/Aaron-Mendonca" target="_blank">
+  <img src="https://img.icons8.com/color/96/github.png" width="65" height="65" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/aaronmendonca/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Aaron-Mendonca">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+</p>
 
 <br>
 
