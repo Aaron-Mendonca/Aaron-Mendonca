@@ -122,13 +122,17 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
-  <img src="./profile/stats.svg" width="48%" />
+<a href="https://github.com/Aaron-Mendonca">
+<img src="./profile/stats.svg" width="48%" height="300" />
+</a>
 
-  <img src="./profile/top-langs.svg" width="48%" />
+<a href="https://github.com/Aaron-Mendonca">
+<img src="./profile/top-langs.svg" width="48%" height="300" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <img src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Aaron-Mendonca&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
