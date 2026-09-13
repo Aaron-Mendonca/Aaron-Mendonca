@@ -8,27 +8,20 @@
 <hr>
 
 <p align="center">
-  <img src="./visual_representation.gif" width="550">
-</p>
 
-<br>
-
-<p align="center">
 
 <a href="mailto:mendoncaaaron27@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="66" height="66" alt="Email">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="52" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="66" height="66" alt="LinkedIn">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Aaron-Mendonca" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="66" height="66" alt="GitHub">
 </a>
 
 </p>
