@@ -44,7 +44,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 
-<h3 align="left">📊 Data Analysis & Visualization</h3>
+<h5 align="left">📊 Data Analysis & Visualization</h5>
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=python" />
