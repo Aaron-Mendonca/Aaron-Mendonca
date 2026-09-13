@@ -122,13 +122,19 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
-<a href="https://github.com/Aaron-Mendonca">
-  <img src="./profile/stats.svg" width="48%" height="200" alt="GitHub Stats"/>
-</a>
+<img
+  src="./profile/stats.svg"
+  width="48%"
+  height="200"
+  alt="GitHub Stats"
+/>
 
-<a href="https://github.com/Aaron-Mendonca">
-  <img src="./profile/top-langs.svg" width="48%" height="200" alt="Most Used Languages"/>
-</a>
+<img
+  src="./profile/top-langs.svg"
+  width="48%"
+  height="200"
+  alt="Most Used Languages"
+/>
 
 <br><br>
 
