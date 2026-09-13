@@ -16,52 +16,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate stats card
+      - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Aaron-Mendonca&show_icons=true&theme=tokyonight&hide_border=true&card_width=480
+          options: username=Aaron-Mendonca&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&ring_color=8957E5
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Aaron-Mendonca&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=480
+          options: username=Aaron-Mendonca&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Make both cards the same size
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import re
-
-          WIDTH = 480
-          HEIGHT = 200
-
-          for filename in [
-              "profile/stats.svg",
-              "profile/top-langs.svg"
-          ]:
-              path = Path(filename)
-              svg = path.read_text()
-
-              svg = re.sub(
-                  r'<svg\b[^>]*>',
-                  f'<svg width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}" preserveAspectRatio="none">',
-                  svg,
-                  count=1
-              )
-
-              path.write_text(svg)
-          PY
 
       - name: Check generated files
         run: |
           echo "Generated files:"
-          ls -lh profile/
+          ls -lah profile/
 
       - name: Commit cards
         run: |
