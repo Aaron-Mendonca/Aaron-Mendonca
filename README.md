@@ -157,22 +157,22 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">🌱 Currently Learning</h2>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres" align="left" />
+</p>
+
+<br clear="left">
+
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,postgres" />
+📊 Advanced Data Analytics  
+🗄️ Advanced SQL  
+🤖 Machine Learning  
+📈 Business Intelligence  
+📉 Statistical Analysis  
+💡 Predictive Modelling
 
 </div>
-
-<br>
-
-<ul>
-<li>📊 Advanced Data Analytics</li>
-<li>🗄️ Advanced SQL</li>
-<li>🤖 Machine Learning</li>
-<li>📈 Business Intelligence</li>
-<li>📉 Statistical Analysis</li>
-<li>💡 Predictive Modelling</li>
-</ul>
 
 <h2 align="left">📫 Let's Connect</h2>
 
