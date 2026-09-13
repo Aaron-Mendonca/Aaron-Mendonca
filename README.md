@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./aaron_data_analyst_animated.gif" width="850">
+<img src="./visual_representation.gif" width="850">
 
 </div>
 
