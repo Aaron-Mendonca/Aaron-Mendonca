@@ -23,7 +23,9 @@
 
 <br>
 
-## 👨‍💻 About Me
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
 
 🎓 Final-year **BSc Data Science student at the University of Mumbai** with a **9.5 CGPA**.
 
@@ -36,6 +38,9 @@
 🔎 I enjoy discovering patterns in data, building analytical solutions, and turning data into actionable business insights.
 
 🎯 Currently seeking opportunities in **Data Analytics, Business Analysis, Data Science, and Business Intelligence**.
+
+<p>
+  
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Visualization
