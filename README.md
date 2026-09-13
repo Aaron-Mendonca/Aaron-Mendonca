@@ -2,7 +2,7 @@
 
 <p>
   <strong>
-    <font size="18">👋 Hi, I'm Aaron Mendonca</font>
+    <font size="25">👋 Hi, I'm Aaron Mendonca</font>
   </strong>
 </p>
 
