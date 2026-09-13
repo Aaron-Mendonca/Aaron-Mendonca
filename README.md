@@ -41,13 +41,12 @@
 
 </div>
 
-<h2 align="left">🛠️ Technical Skills</h2>
-
-## 🛠️ Tech Stack
-
-### 📊 Data Analysis & Visualization
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
+### 📊 Data Analysis & Visualization
+
+
 
 <img src="https://skillicons.dev/icons?i=python" />
 
