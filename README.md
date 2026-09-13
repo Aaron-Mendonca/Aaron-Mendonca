@@ -174,16 +174,14 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">🌱 Currently Learning</h2>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/pandas" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" width="50" height="50" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres" align="left" />
+</p>
 
+<br clear="left">
 <br>
+
+<div align="left">
 
 📊 Advanced Data Analytics  
 🗄️ Advanced SQL  
@@ -191,6 +189,8 @@ Built regression models using preprocessing and feature selection techniques for
 📈 Business Intelligence  
 📉 Statistical Analysis  
 💡 Predictive Modelling
+
+</div>
 
 <h2 align="left">📫 Let's Connect</h2>
 
