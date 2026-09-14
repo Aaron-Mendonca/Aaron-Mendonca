@@ -202,9 +202,9 @@ Built regression models using preprocessing and feature selection techniques for
 <div align="center">
 
 <img
-  src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Aaron_Mendonca"
-  width="100%"
-  alt="LeetCode Contribution Calendar"
+  src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=heatmap&theme=dark"
+  width="75%"
+  alt="LeetCode Contributions"
 />
 
 </div>
