@@ -10,7 +10,7 @@
 
 <img src="./visual_representation.gif" width="550" alt="Data Science Illustration">
 
-<br>
+<br><br>
 
 <p align="center"> 
   <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
