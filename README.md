@@ -203,7 +203,8 @@ Built regression models using preprocessing and feature selection techniques for
 
 <img
   src="https://leetcard.jacoblin.cool/Aaron_Mendonca?theme=dark&ext=heatmap"
-  width="75%"
+  width="90%"
+  height="180"
   alt="LeetCode Contributions"
 />
 
