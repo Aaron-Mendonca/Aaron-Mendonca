@@ -46,9 +46,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau"> 
-  &nbsp;&nbsp;
+  
 </p>
 
 <h3 align="left">🤖 Data Science & Machine Learning</h3>
@@ -73,8 +73,8 @@
 
 <p align="left">
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hubspot" width="40" height="40" alt="HubSpot">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
+  
 </p>
 
 <h3 align="left">🛠️ Tools & Development</h3>
