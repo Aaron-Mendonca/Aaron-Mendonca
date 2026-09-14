@@ -3,23 +3,38 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aaron+Mendonca+!!" />
 
 <br>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
 
 <hr>
 
-<div align="center">
-  <img src="./visual_representation.gif" width="550">
+<img src="./visual_representation.gif" width="550" alt="Data Science Illustration">
+
+<br><br>
+
+<p align="center">
+  <a href="https://aaron-mendonca.github.io/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aaron-Mendonca" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aaron_Mendonca/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mendoncaaaron27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
+  </a>
+</p>
+
 </div>
-
-<br>
-
-<p align="center"> 
-  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mendoncaaaron27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"> </a>
-
-<br>
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -44,46 +59,71 @@
 <h4 align="left">📊 Data Analysis & Visualization</h4>
 
 <div align="left">
-  <img src="./powerbi.png" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" />&nbsp;
+
+<img src="./powerbi.png" width="50" height="50" alt="Power BI">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" alt="Tableau">
+
 </div>
 
 <h4 align="left">🤖 Data Science & Machine Learning</h4>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" />&nbsp;
+
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="50" height="50" alt="Scikit-learn">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch">
+
 </div>
 
 <h4 align="left">🗄️ Databases</h4>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB">
+
 </div>
 
 <h4 align="left">📈 Business Intelligence & CRM</h4>
 
 <div align="left">
-  <img src="./powerbi.png" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/hubspot" width="50" height="50" />&nbsp;
-  <img src="https://cdn.simpleicons.org/looker" width="50" height="50" />
+
+<img src="./powerbi.png" width="50" height="50" alt="Power BI">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="50" height="50" alt="Tableau">
+&nbsp;
+<img src="https://cdn.simpleicons.org/hubspot" width="50" height="50" alt="HubSpot">
+&nbsp;
+<img src="https://cdn.simpleicons.org/looker" width="50" height="50" alt="Looker">
+
 </div>
 
 <h4 align="left">💻 Tools & Development</h4>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50" />&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker">
+&nbsp;
+<img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50" alt="Anaconda">
+
 </div>
 
 <h2 align="left">🚀 Featured Projects</h2>
@@ -100,6 +140,8 @@ Built classification models with feature engineering and evaluated model perform
 
 🔗 <strong><a href="https://github.com/Aaron-Mendonca/Customer-Satisfaction-Prediction">View Project</a></strong>
 
+<br>
+
 <h4>🎬 Netflix Data Analysis</h4>
 
 <strong>Python • Pandas • Matplotlib • Seaborn</strong>
@@ -110,6 +152,7 @@ Conducted exploratory data analysis and created visualizations to uncover conten
 
 🔗 <strong><a href="https://github.com/Aaron-Mendonca/Netflix-Data-Analysis-">View Project</a></strong>
 
+<br>
 
 <h4>🌫️ Air Quality Prediction</h4>
 
@@ -172,11 +215,8 @@ Built regression models using preprocessing and feature selection techniques for
 <h2 align="left">🌱 Currently Learning</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres" align="left" />
+  <img src="https://skillicons.dev/icons?i=python,postgres" alt="Python and PostgreSQL">
 </p>
-
-<br clear="left">
-<br>
 
 <div align="left">
 
@@ -192,14 +232,26 @@ Built regression models using preprocessing and feature selection techniques for
 <h2 align="left">📫 Let's Connect</h2>
 
 <div align="left">
-I'm open to connecting with professionals, discussing data analytics and exploring opportunities where I can contribute and continue learning.
+
+I'm open to connecting with professionals, discussing data analytics, and exploring opportunities where I can contribute and continue learning.
+
 </div>
 
 <p align="center">
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:mendoncaaaron27@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaronmendonca/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Aaron-Mendonca)
+<a href="mailto:mendoncaaaron27@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Aaron-Mendonca" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
+</a>
 
 </p>
 
@@ -207,13 +259,10 @@ I'm open to connecting with professionals, discussing data analytics and explori
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aaron-Mendonca&label=Profile%20Views&color=007ec6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Aaron-Mendonca&label=Profile%20Views&color=007ec6&style=flat" alt="Profile Views">
+
+<br><br>
+
+<strong>📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀</strong>
 
 </div>
-
-<div align="center">
-
-### 📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀
-
-</div>
-
