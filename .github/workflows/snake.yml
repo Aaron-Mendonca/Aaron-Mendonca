@@ -21,44 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Keep full contribution grid visible at the start
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          # How long the complete contribution grid remains visible
-          # before the animation starts.
-          INITIAL_DELAY = "300ms"
-
-          files = [
-              Path("dist/github-contribution-grid-snake.svg"),
-              Path("dist/github-contribution-grid-snake-dark.svg"),
-          ]
-
-          for file in files:
-              text = file.read_text(encoding="utf-8")
-
-              # Delay every contribution-cell animation.
-              text = re.sub(
-                  r'(\.c\.c[^{]+\{[^}]*animation-name:[^;}]+;?)',
-                  r'\1 animation-delay: ' + INITIAL_DELAY + ';',
-                  text
-              )
-
-              # Delay every snake-piece animation by the same amount.
-              text = re.sub(
-                  r'(\.s\.s\d+\{[^}]*animation-name:[^;}]+;?)',
-                  r'\1 animation-delay: ' + INITIAL_DELAY + ';',
-                  text
-              )
-
-              file.write_text(text, encoding="utf-8")
-
-              print(f"Updated {file}")
-
-          PY
-
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
