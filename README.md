@@ -153,29 +153,14 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img src="./profile/stats.svg" width="47%" alt="GitHub Stats">
+  <img src="./profile/streak.svg" width="47%" alt="GitHub Streak">
+</p>
 
-  <img
-    src="./profile/stats.svg"
-    width="44%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="./profile/streak.svg"
-    width="47%"
-    alt="GitHub Streak"
-  />
-
-  <br><br>
-
-  <img
-    src="./profile/top-langs.svg"
-    width="47%"
-    alt="Most Used Languages"
-  />
-
-</div>
+<p align="center">
+  <img src="./profile/top-langs.svg" width="47%" alt="Most Used Languages">
+</p>
 
 <h2 align="left">🐍 Github Contribution Snake</h2>
 
