@@ -31,7 +31,7 @@ jobs:
           git add profile/streak.svg
 
           if git diff --cached --quiet -- profile/streak.svg; then
-            echo "No changes to commit."
+            echo "No streak SVG changes to commit."
             exit 0
           fi
 
