@@ -46,7 +46,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="40" height="40" alt="Excel">
+  <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" alt="Tableau">
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
 </p>
 
