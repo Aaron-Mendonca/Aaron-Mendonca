@@ -223,9 +223,9 @@ I'm open to connect with professionals, discussing data analytics, and exploring
 
 <p align="center">
 
-<a href="mailto:mendoncaaaron27@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"> 
-</a>
+<a href="https://aaron-mendonca.github.io/" target="_blank">
+<img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
+</a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
@@ -233,8 +233,8 @@ I'm open to connect with professionals, discussing data analytics, and exploring
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://aaron-mendonca.github.io/" target="_blank">
-<img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
+<a href="mailto:mendoncaaaron27@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"> 
 </a>
 
 </p>
