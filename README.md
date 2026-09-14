@@ -197,17 +197,15 @@ Built regression models using preprocessing and feature selection techniques for
 
 </div>
 
-<h2 align="left">🧩 LeetCode Activity</h2>
+<h2 align="left">🐍 LeetCode Contribution Snake</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Aaron_Mendonca/" target="_blank">
-  <img
-    src="https://leetcard.jacoblin.cool/Aaron_Mendonca?theme=dark&ext=heatmap"
-    alt="LeetCode Activity"
-    width="65%"
-  />
-</a>
+<img
+  src="./profile/leetcode-snake.svg"
+  width="100%"
+  alt="LeetCode Contribution Snake"
+/>
 
 </div>
 
