@@ -157,13 +157,13 @@ Built regression models using preprocessing and feature selection techniques for
 
   <img
     src="./profile/stats.svg"
-    width="48%"
+    width="44%"
     alt="GitHub Stats"
   />
 
   <img
     src="./profile/streak.svg"
-    width="48%"
+    width="47%"
     alt="GitHub Streak"
   />
 
@@ -171,7 +171,7 @@ Built regression models using preprocessing and feature selection techniques for
 
   <img
     src="./profile/top-langs.svg"
-    width="48%"
+    width="47%"
     alt="Most Used Languages"
   />
 
