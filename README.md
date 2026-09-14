@@ -218,7 +218,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="left">
   
-Let’s Connect • Share Ideas • Turn Ideas Into Insights • Turn Data Into Impact • Build Something Meaningful • Learn Together • Grow Together 🚀
+Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data • Build Something Meaningful • Create Insights • Grow Together 🚀
 
 </div>
 
