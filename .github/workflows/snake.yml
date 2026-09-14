@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Aaron-Mendonca
@@ -21,13 +21,15 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Add initial pause to snake animation
-        shell: bash
+      - name: Keep full contribution grid visible at the start
         run: |
-          python - <<'PY'
+          python3 - <<'PY'
           from pathlib import Path
+          import re
 
-          PAUSE = "5s"
+          # How long the complete contribution grid remains visible
+          # before the animation starts.
+          INITIAL_DELAY = "300ms"
 
           files = [
               Path("dist/github-contribution-grid-snake.svg"),
@@ -37,18 +39,27 @@ jobs:
           for file in files:
               text = file.read_text(encoding="utf-8")
 
-              # Delay only animations that start immediately.
-              # Chained animations such as "previous.end" are left untouched.
-              text = text.replace('begin="0s"', f'begin="{PAUSE}"')
-              text = text.replace('begin="0"', f'begin="{PAUSE}"')
+              # Delay every contribution-cell animation.
+              text = re.sub(
+                  r'(\.c\.c[^{]+\{[^}]*animation-name:[^;}]+;?)',
+                  r'\1 animation-delay: ' + INITIAL_DELAY + ';',
+                  text
+              )
+
+              # Delay every snake-piece animation by the same amount.
+              text = re.sub(
+                  r'(\.s\.s\d+\{[^}]*animation-name:[^;}]+;?)',
+                  r'\1 animation-delay: ' + INITIAL_DELAY + ';',
+                  text
+              )
 
               file.write_text(text, encoding="utf-8")
 
-              print(f"Initial pause added to {file}")
+              print(f"Updated {file}")
 
           PY
 
-      - name: Publish snake files
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
