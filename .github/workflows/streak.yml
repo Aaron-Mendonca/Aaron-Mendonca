@@ -19,10 +19,9 @@ jobs:
       - name: Generate streak stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          user: Aaron-Mendonca
-          output_path: profile/streak.svg
-          theme: tokyo-night
-          hide_border: true
+          options: user=Aaron-Mendonca&theme=tokyonight&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
@@ -31,9 +30,10 @@ jobs:
 
           git add profile/streak.svg
 
-          if git diff --cached --quiet; then
+          if git diff --cached --quiet -- profile/streak.svg; then
             echo "No changes to commit."
-          else
-            git commit -m "Update GitHub streak"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update GitHub streak"
+          git push
