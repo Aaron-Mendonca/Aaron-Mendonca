@@ -14,23 +14,23 @@
 
 <p align="center">
 
-  <a href="https://aaron-mendonca.github.io/" target="_blank">
+  <a href="https://aaron-mendonca.github.io/" target="_blank" style="text-decoration:none; border:none;">
     <img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
+  <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank" style="text-decoration:none; border:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank">
+  <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank" style="text-decoration:none; border:none;">
     <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank">
+  <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank" style="text-decoration:none; border:none;">
     <img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:mendoncaaar27@gmail.com">
+  <a href="mailto:mendoncaaar27@gmail.com" style="text-decoration:none; border:none;">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
   </a>
 
