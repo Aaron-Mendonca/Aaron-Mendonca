@@ -175,7 +175,7 @@ Built regression models using preprocessing and feature selection techniques for
   />
 </p>
 
-<h2 align="left">🐍 Contribution Snake</h2>
+<h2 align="left">🐍 Github Contribution Snake</h2>
 
 <div align="left">
 
