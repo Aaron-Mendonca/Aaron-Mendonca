@@ -46,11 +46,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy">&nbsp;&nbsp;
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" width="40" height="40" alt="Excel">
 </p>
 
 <h3 align="left">🤖 Data Science & Machine Learning</h3>
@@ -74,10 +70,9 @@
 <h3 align="left">💼 Business Intelligence & CRM</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
+  <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=hubspot" width="40" height="40" alt="HubSpot">&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=looker" width="40" height="40" alt="Looker">
+  <img src="https://cdn.simpleicons.org/hubspot" width="40" height="40" alt="HubSpot">
 </p>
 
 <h3 align="left">🛠️ Tools & Development</h3>
