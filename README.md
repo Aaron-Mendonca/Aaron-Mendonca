@@ -162,27 +162,24 @@ Built regression models using preprocessing and feature selection techniques for
   <img src="./profile/top-langs.svg" width="47%" alt="Most Used Languages">
 </p>
 
-<h2 align="left">🐍 Github Contribution Snake</h2>
+<h2 align="left">🐍 GitHub Contribution Snake</h2>
 
-<div align="left">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 <h2 align="left">🌱 Currently Learning</h2>
 
