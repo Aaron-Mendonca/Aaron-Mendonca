@@ -46,7 +46,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/tableau.svg" width="40" height="40" alt="Tableau"> 
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" height="40" alt="Tableau"> 
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
 </p>
 
