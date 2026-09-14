@@ -218,7 +218,7 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="left">
   
-Let’s Connect • Share Ideas • Turn Ideas Into Insights • Turn Data Into Impact • Build Something Meaningful • Grow Together 🚀
+Let’s Connect • Share Ideas • Turn Ideas Into Insights • Turn Data Into Impact • Build Something Meaningful • Learn Together • Grow Together 🚀
 
 </div>
 
@@ -239,6 +239,6 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Turn Data Into 
 
 <br><br>
 
-<strong>📊 DATA IS THE NEW OIL,BUT INSIGHTS ARE THE REAL FUEL 🚀</strong>
+<strong>📊 DATA IS THE NEW OIL , BUT INSIGHTS ARE THE REAL FUEL 🚀</strong>
 
 </div>
