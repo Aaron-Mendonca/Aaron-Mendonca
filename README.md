@@ -45,49 +45,49 @@
 <h3 align="left">📊 Data Analysis & Visualization</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" alt="Pandas">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy" width="40" height="40" alt="NumPy">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy">&nbsp;&nbsp;
   <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="40" height="40" alt="Excel">
+  <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=excel" width="40" height="40" alt="Excel">
 </p>
 
 <h3 align="left">🤖 Data Science & Machine Learning</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-learn">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="TensorFlow">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch">
 </p>
 
 <h3 align="left">🗄️ Databases</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite" width="40" height="40" alt="SQLite">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" width="40" height="40" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB">
 </p>
 
 <h3 align="left">💼 Business Intelligence & CRM</h3>
 
 <p align="left">
-  <img src="./powerbi.png" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hubspot" width="40" height="40" alt="HubSpot">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/looker" width="40" height="40" alt="Looker">
+  <img src="https://skillicons.dev/icons?i=powerbi" width="40" height="40" alt="Power BI">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=hubspot" width="40" height="40" alt="HubSpot">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=looker" width="40" height="40" alt="Looker">
 </p>
 
 <h3 align="left">🛠️ Tools & Development</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anaconda" width="40" height="40" alt="Anaconda">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker">&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda">
 </p>
 
 <h2 align="left">🚀 Featured Projects</h2>
