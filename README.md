@@ -214,15 +214,15 @@ Built regression models using preprocessing and feature selection techniques for
 
 </div>
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">🤝 Let's Connect</h2>
 
 <div align="left">
   
-Let's connect and build something meaningful with data.
+Let’s Connect • Share Ideas • Turn Ideas Into Insights • Turn Data Into Impact 🚀
 
 </div>
 
-<p align="left">
+<p align="center">
 
  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -239,6 +239,6 @@ Let's connect and build something meaningful with data.
 
 <br><br>
 
-<strong>📊 Turning Data Into Insights • Building With Data • Learning Every Day 🚀</strong>
+<strong>📊 Data is the New Oil, But Insights are the Real Fuel 🚀</strong>
 
 </div>
