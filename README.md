@@ -197,6 +197,42 @@ Built regression models using preprocessing and feature selection techniques for
 
 </div>
 
+<h2 align="left">🐍 GitHub Contribution Snake</h2>
+
+<div align="left">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Aaron-Mendonca/Aaron-Mendonca/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<h2 align="left">🧩 LeetCode Activity</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Aaron_Mendonca/" target="_blank">
+  <img
+    src="YOUR_LEETCODE_ACTIVITY_IMAGE_URL"
+    alt="LeetCode Activity"
+    width="80%"
+  />
+</a>
+
+</div>
+
 <h2 align="left">🌱 Currently Learning</h2>
 
 <p align="left">
