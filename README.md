@@ -202,7 +202,7 @@ Built regression models using preprocessing and feature selection techniques for
 <div align="center">
 
 <img
-  src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=heatmap&theme=dark"
+  src="https://leetcard.jacoblin.cool/Aaron_Mendonca?theme=dark&ext=heatmap"
   width="75%"
   alt="LeetCode Contributions"
 />
