@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=400&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
 
 <hr>
 
