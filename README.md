@@ -161,6 +161,14 @@ Built regression models using preprocessing and feature selection techniques for
   alt="GitHub Stats"
 />
 
+&nbsp;&nbsp;
+
+<img
+  src="./profile/streak.svg"
+  width="48%"
+  alt="GitHub Streak"
+/>
+
 <br><br>
 
 <img
