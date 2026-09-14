@@ -216,9 +216,9 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📫 Let's Connect</h2>
 
-<div align="left">
-
-I'm open to connect with professionals, discussing data analytics, and exploring opportunities where I can contribute and continue learning.
+<div align="centre">
+  
+Let's connect and build something meaningful with data.
 
 </div>
 
