@@ -155,27 +155,34 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  width="48%"
-  alt="GitHub Stats"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="./profile/streak.svg"
-  width="48%"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="./profile/top-langs.svg"
-  width="48%"
-  alt="Most Used Languages"
-/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="./profile/stats.svg"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="./profile/streak.svg"
+        width="100%"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br>
+      <img
+        src="./profile/top-langs.svg"
+        width="55%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
