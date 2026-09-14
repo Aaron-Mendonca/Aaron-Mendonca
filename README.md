@@ -216,13 +216,13 @@ Built regression models using preprocessing and feature selection techniques for
 
 <h2 align="left">📫 Let's Connect</h2>
 
-<div align="centre">
+<div align="left">
   
 Let's connect and build something meaningful with data.
 
 </div>
 
-<p align="center">
+<p align="left">
 
  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
