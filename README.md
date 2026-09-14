@@ -231,7 +231,7 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data �
 
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
 
