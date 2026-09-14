@@ -197,14 +197,14 @@ Built regression models using preprocessing and feature selection techniques for
 
 </div>
 
-<h2 align="left">🐍 LeetCode Contribution Snake</h2>
+<h2 align="left">🧩 LeetCode Contributions</h2>
 
 <div align="center">
 
 <img
-  src="./profile/leetcode-snake.svg"
+  src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=Aaron_Mendonca"
   width="100%"
-  alt="LeetCode Contribution Snake"
+  alt="LeetCode Contribution Calendar"
 />
 
 </div>
