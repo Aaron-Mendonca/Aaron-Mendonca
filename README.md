@@ -202,9 +202,9 @@ Built regression models using preprocessing and feature selection techniques for
 <div align="center">
 
 <img
-  src="./profile/leetcode-contributions.svg"
+  src="https://leetcode-contribution-calendar-server.onrender.com/generateImage?username=Aaron_Mendonca"
   width="100%"
-  alt="LeetCode Contributions"
+  alt="LeetCode Contribution Calendar"
 />
 
 </div>
