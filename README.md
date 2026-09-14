@@ -10,7 +10,7 @@
 
 <img src="./visual_representation.gif" width="550" alt="Data Science Illustration">
 
-<br><br>
+<br>
 
 <p align="center"> 
   <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -217,24 +217,24 @@ Built regression models using preprocessing and feature selection techniques for
 
 <div align="left">
 
-I'm open to connecting with professionals, discussing data analytics, and exploring opportunities where I can contribute and continue learning.
+I'm open to connect with professionals, discussing data analytics, and exploring opportunities where I can contribute and continue learning.
 
 </div>
 
 <p align="center">
 
 <a href="mailto:mendoncaaaron27@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"> 
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Aaron-Mendonca" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
+<a href="https://aaron-mendonca.github.io/" target="_blank">
+<img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio">
 </a>
 
 </p>
