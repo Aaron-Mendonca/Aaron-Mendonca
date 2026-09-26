@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="center">
-  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/6E40C9/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/00897B/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
