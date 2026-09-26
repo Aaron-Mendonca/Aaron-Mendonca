@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aaron+Mendonca+!!" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aaron+Mendonca+!!" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=1&pause=999999&color=24292F&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aaron+Mendonca+!!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=1&pause=999999&color=24292F&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aaron+Mendonca+!!" alt="Hi, I'm Aaron Mendonca">
+</picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=400&color=0969DA&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=400&color=0969DA&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%F0%9F%93%8A;Business+Analyst+%F0%9F%92%BC;Data+Visualization+Enthusiast+%F0%9F%93%88;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Insights+%F0%9F%9A%80" alt="Data Analyst, Business Analyst, Data Visualization Enthusiast, Machine Learning Enthusiast">
+</picture>
 
 <hr>
 
@@ -183,7 +191,7 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data �
 </div>
 
 <p align="center">
-  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aaron-mendonca.github.io/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/00897B/briefcase.png" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
