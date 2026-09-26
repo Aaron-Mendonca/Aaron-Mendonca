@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mendoncaaar27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"></a>
+  <a href="mailto:mendoncaaaron27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"></a>
 </p>
 
 <br>
@@ -195,7 +195,7 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data �
   <a href="https://www.linkedin.com/in/aaronmendonca/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Aaron_Mendonca/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mendoncaaaron27" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" width="40" height="40" alt="HackerRank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mendoncaaar27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"></a>
+  <a href="mailto:mendoncaaaron27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"></a>
 </p>
 
 <br>
