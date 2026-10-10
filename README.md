@@ -202,7 +202,7 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data �
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aaron-Mendonca&label=Profile%20Views&color=007ec6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Aaron-Mendonca&label=Profile%20Views&color=00897B&style=flat" alt="Profile Views">
 
 <br><br>
 
