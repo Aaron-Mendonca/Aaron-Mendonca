@@ -208,6 +208,6 @@ Let’s Connect • Share Ideas • Turn Ideas Into Insights • Explore Data �
 
 <br><br>
 
-<strong>📊 DATA IS THE NEW OIL , BUT INSIGHTS ARE THE REAL FUEL 🚀</strong>
+<strong>📊 DATA IS THE NEW OIL , BUT INSIGHTS ARE THE REAL FUEL 🚀 </strong>
 
 </div>
